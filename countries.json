@@ -1,0 +1,86 @@
+ [
+    {
+      "id": 1,
+      "img_url": "https://images.chinahighlights.com/allpicture/2014/07/a75e71599fcc40d1b72fb2b8_cut_800x534_349.jpg",
+      "name": "China",
+      "city": "Beijing",
+      "description": "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion."
+    },
+    {
+      "id": 2,
+      "img_url": "https://i.pinimg.com/1200x/41/6d/05/416d05f0ded49f6fbbe82b1f32dbe808.jpg",
+      "name": "India",
+      "city": "New Delhi",
+      "description": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by land area, the second-most populous country, and the most populous democracy in the world."
+    },
+    {
+      "id": 3,
+      "img_url": "https://res.klook.com/image/upload/q_85/c_fill,w_750/v1674030135/blog/bnbtltnp5nqbdevfcbmn.jpg",
+      "name": "Japan",
+      "city": "Tokyo",
+      "description": "Japan is an island country in East Asia. It is known for its traditional arts, modern technology, and rich cultural heritage."
+    },
+    {
+      "id": 4,
+      "img_url": "https://chaptertravel.com/wp-content/uploads/2017/04/Seoul.jpg",
+      "name": "South Korea",
+      "city": "Seoul",
+      "description": "South Korea, officially the Republic of Korea, is a country in East Asia, constituting the southern part of the Korean Peninsula. It is known for its vibrant culture and technological advancements."
+    },
+    {
+      "id": 5,
+      "img_url": "https://i.pinimg.com/736x/74/ac/97/74ac9701596467736d2068a5cbc2a023.jpg",
+      "name": "Indonesia",
+      "city": "Jakarta",
+      "description": "Indonesia is a country in Southeast Asia and Oceania, known for its diverse culture, tropical climate, and extensive archipelago."
+    },
+    {
+      "id": 6,
+      "img_url": "https://static.businessworld.in/article/article_extra_large_image/1659955607_ZYozx2_Da_Nang.jpg",
+      "name": "Vietnam",
+      "city": "Hanoi",
+      "description": "Vietnam is a country in Southeast Asia, known for its stunning landscapes, rich history, and delicious cuisine."
+    },
+    {
+      "id": 7,
+      "img_url": "https://www.myglobalviewpoint.com/wp-content/uploads/2023/08/Most-Beautiful-Places-in-Thailand-featured-image.jpg",
+      "name": "Thailand",
+      "city": "Bangkok",
+      "description": "Thailand, officially the Kingdom of Thailand, is a country in Southeast Asia. It is known for its beautiful beaches, rich cultural heritage, and vibrant nightlife."
+    },
+    {
+      "id": 8,
+      "img_url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/09/19/145613.jpg",
+      "name": "Malaysia",
+      "city": "Kuala Lumpur",
+      "description": "Malaysia is a country in Southeast Asia, known for its diverse culture, modern cities, and tropical rainforests."
+    },
+    {
+      "id": 9,
+      "img_url": "https://cdn.tourradar.com/s3/tour/645x430/134003_65364e3f6e27b.jpg",
+      "name": "Philippines",
+      "city": "Manila",
+      "description": "The Philippines is an archipelagic country in Southeast Asia, known for its stunning beaches, vibrant festivals, and friendly people."
+    },
+    {
+      "id": 10,
+      "img_url": "https://www.hindustantimes.com/ht-img/img/2023/08/09/1600x900/jisun-han-cjSsSQ7Yedk-unsplash_1691566310229_1691566339521.jpg",
+      "name": "Singapore",
+      "city": "Singapore",
+      "description": "Singapore is a city-state and island country in Southeast Asia, known for its modern skyline, diverse cuisine, and efficient public transportation."
+    },
+    {
+      "id": 11,
+      "img_url": "https://ichef.bbci.co.uk/news/624/cpsprodpb/10F8B/production/_116751596_fbe1063f-6721-4cd0-8782-9c9b4007f6f0.jpg",
+      "name": "Myanmar",
+      "city": "Naypyidaw",
+      "description": "Myanmar, also known as Burma, is a country in Southeast Asia. It is known for its rich cultural heritage, diverse landscapes, and historical landmarks."
+    },
+    {
+      "id": 12,
+      "img_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/EFB5/production/_131256316_thepatuxaimonumentinvientiane.jpg",
+      "name": "Laos",
+      "city": "Vientiane",
+      "description": "Laos is a landlocked country in Southeast Asia, known for its mountainous terrain, French colonial architecture, and Buddhist monasteries. It is a peaceful and scenic destination."
+    }
+  ]
